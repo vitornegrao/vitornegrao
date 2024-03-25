@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitornegrao
 - 👀 I’m interested in learn to develop programs and create websites
-- 🌱 I’m currently learning HTML, CSS and JAVASCRIPT, PYTHON
+- 🌱 I’m currently learning HTML, CSS JAVASCRIPT, PYTHON
 - 💞️ I’m looking to collaborate on developing website projects
 - 📫 How to reach me: my email is vitornegraorocha@gmail.com
 
